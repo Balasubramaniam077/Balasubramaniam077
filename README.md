@@ -1,6 +1,13 @@
 <h1 align="center">👋Hi there!, I am Balasubramaniam 🙇‍♀️</h1>
 <h3 align="center">I am a highly self-motivated Developer👨‍💻,self Learner🤥.I'm currently pursuing Bachelors in Computer Science and Engineering from KPR Institute of Engineering and Technology at Coimbatore</h3>
 
+🌱 I’m currently learning in **Database and Framesworks**
+
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+  - 📊 Machine Learning & Data Science
+  - 🔤 DeepLearning
+  - 🖼 Computer Vision
+ 
 - 💬 Ask me about **Machine learning and Deep learning 😅**
 
 - 📫 How to reach me **balasubramaniamvadivel@gmail.com**
@@ -30,3 +37,12 @@
 <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC">
 <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626">
 </p> 
+
+
+
+
+ ## 📈 My Stats
+<p align='center' >
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Balasubramaniam077&show_icons=true&theme=dark" width=420/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balasubramaniam077&layout=compact&theme=dark">
+<p/>
