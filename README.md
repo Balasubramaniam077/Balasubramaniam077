@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/Nav_iinV" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@nav_iin" height="20" width="30" /></a><a href="https://www.linkedin.com/in/balasubramaniam-v-5215251b7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arunpandian-rk7" height="20" width="30" /></a><a href="https://kaggle.com/arunrk7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="balasubramaniam-v" height="20" width="30" /></a><a href="https://www.instagram.com/_b26__/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_b26_" height="20" width="30" /></a>
+<a href="https://twitter.com/Nav_iinV" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@nav_iin" height="20" width="30" /></a><a href="https://www.linkedin.com/in/balasubramaniam-v-5215251b7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arunpandian-rk7" height="20" width="30" /></a><a href="https://www.kaggle.com/balasubramaniamv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="balasubramaniam-v" height="20" width="30" /></a><a href="https://www.instagram.com/_b26__/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_b26_" height="20" width="30" /></a>
 </p>
 
 
