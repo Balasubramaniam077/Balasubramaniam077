@@ -1,7 +1,7 @@
 <h1 align="center">👋Hi there!, I am Balasubramaniam 🙇‍♀️</h1>
-<h3 align="center">I am a highly self-motivated Developer👨‍💻,self Learner🤥.I'm currently pursuing Bachelors in Computer Science and Engineering from KPR Institute of Engineering and Technology at Coimbatore</h3>
+<h3 align="center">I am a highly self-motivated Developer👨‍💻,self Learner🤥& Data Science Asprit🎯.I'm currently pursuing Bachelors in Computer Science and Engineering from KPR Institute of Engineering and Technology at Coimbatore</h3>
 
-🌱 I’m currently learning in **Database and Frameworks**
+🌱 I’m currently learning in **Machine Learning Frameworks and Data Base Management System**
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Data Science
