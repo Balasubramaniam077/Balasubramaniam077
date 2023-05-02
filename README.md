@@ -1,5 +1,5 @@
 <h1 align="center">👋Hi there!, I am Balasubramaniam 🙇‍♀️</h1>
-<h3 align="center">I am a highly self-motivated Developer👨‍💻,self Learner🤥& Data Science Asprit🎯.I'm currently pursuing Bachelors in Computer Science and Engineering from KPR Institute of Engineering and Technology at Coimbatore</h3>
+<h3 align="center">I am a highly self-motivated Developer👨‍💻,self Learner🤥, Interested on Research and Development</h3>
 
 🌱 I’m currently learning in **Full Stack Development**
 
