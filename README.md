@@ -24,7 +24,7 @@
     <a href="https://twitter.com/Nav_iinV" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Nav_iin" height="30" width="40" />
     </a>
-    <a href="https://www.linkedin.com/in/balasubramaniam-v-5215251b7/" target="blank">
+    <a href="https://www.linkedin.com/in/balasubramaniamvadivel/" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Balasubramaniam" height="30" width="40" />
     </a>
     <a href="https://www.kaggle.com/balasubramaniamv" target="blank">
