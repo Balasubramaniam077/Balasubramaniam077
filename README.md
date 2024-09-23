@@ -68,5 +68,4 @@
     <img src="https://img.shields.io/badge/VS_Code-555555.svg?style=flat-square&logo=visual-studio-code&logoColor=007ACC"/>
     <img alt="nVIDIA" src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?&style=flat&logo=nVIDIA&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jupyter-555555.svg?style=flat-square&logo=jupyter&logoColor=F37626"/>
-    <img src="https://img.shields.io/badge/PSB_Hardware-00A4EF.svg?&style=for-the-badge&logo=hardware" alt="PSB Hardware"/>
 </p>
