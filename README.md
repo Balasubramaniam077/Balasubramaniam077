@@ -42,6 +42,9 @@
     <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/java-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/cmake-%03A87C.svg?&style=for-the-badge&logo=cmake&logoColor=white"/>
 </p>
 
 <h3>My Dev Stack 👨‍💻</h3>
@@ -58,6 +61,9 @@
     <img src="https://img.shields.io/badge/GitLab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
     <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
     <img src="https://img.shields.io/badge/Vercel-000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React.js-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
 <h3>My Tools 🧰</h3>
