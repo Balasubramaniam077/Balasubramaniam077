@@ -30,6 +30,6 @@ My research focuses on **explainable multi-modal fusion for Earth observation**â
 ---
 
 <p align="center">
-  <i>"Understanding system and analysis the year and make it in short time"</i>
+  <i>"First Understand the System then crack it with your knowledge"</i>
 </p>
 
