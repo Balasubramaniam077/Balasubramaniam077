@@ -15,20 +15,21 @@
 
 I am a Research Scholar at the **Indian Institute of Information Technology, Sri City (IIIT Sri City)**, under the **CSE Group**. 
 
-My current research focuses on **explainable multi-modal fusion for enhanced Earth observation**, leveraging machine learning, deep learning, and computer vision to analyze and interpret complex geospatial datasets.
+My research focuses on **explainable multi-modal fusion for Earth observation**—combining different types of satellite and geographic data using AI to make Earth monitoring more accurate and understandable.
 
 ---
 
 ### 🛠️ Technical Stack & Tools
 
 * **Programming & Build**: `Python` • `C++` • `TypeScript` • `JavaScript` • `Java` • `HTML5/CSS3` • `CMake`
-* **Deep Learning & ML**: `PyTorch` • `TensorFlow` • `Scikit-Learn` • `NumPy` • `Pandas` • `OpenCV` • `Mixture-of-Experts (MoE)`
+* **Deep Learning & ML**: `PyTorch` • `TensorFlow` • `Scikit-Learn` • `NumPy` • `Pandas` • `OpenCV`
 * **Geospatial & Analysis**: `GeoPandas` • `GDAL` • `Rasterio` • `QGIS` • `Spatial-Temporal Analysis`
-* **Developer Tools & Cloud**: `Linux` • `NVIDIA CUDA` • `VS Code` • `Jupyter Notebook` • `Git / GitHub` • `AWS` • `Vercel` • `Next.js / React`
+* **Web & Backend**: `React.js` • `Vite` • `Flask` • `REST APIs` • `Next.js` • `TailwindCSS` • `Firebase`
+* **Developer Tools & Cloud**: `Linux` • `NVIDIA CUDA` • `VS Code` • `Jupyter Notebook` • `Git / GitHub` • `AWS` • `Vercel`
 
 ---
 
 <p align="center">
-  <i>"Exploring the intersection of geography, data science, and deep learning."</i>
+  <i>"Understanding system and analysis the year and make it in short time"</i>
 </p>
 
