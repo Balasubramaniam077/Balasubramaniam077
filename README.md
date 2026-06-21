@@ -13,23 +13,9 @@
 
 ### 🧬 About Me
 
-I am a dedicated Research Scholar specializing in **GeoInformatics** and **Spatial-Temporal Deep Learning**. My academic research focuses on leveraging Machine Learning, Computer Vision, and advanced architectures (like Transformers and Mixture-of-Experts) to solve complex geographic, topographic, and human mobility problems.
+I am a Research Scholar at the **Indian Institute of Information Technology, Sri City (IIIT Sri City)**, under the **CSE Group**. 
 
-* 🛰️ **Research Focus**: Digital Elevation Model (DEM) Super-Resolution, Spatial-Temporal modeling, and multi-modal geospatial data fusion.
-* 🧠 **Architectural Interests**: Spatially-Aware Mixture of Experts (SAMoE), Autoregressive Trajectory Forecasting (e.g., MoveGPT), and Bidirectional Encoder-Decoder models (e.g., ST-MoE-BERT).
-* 🏫 **Aspiration**: Bridging the gap between cutting-edge AI research and geospatial science to improve environmental sensing, topography analysis, and smart mobility.
-
----
-
-### 🔍 Key Research Areas
-
-#### 🗺️ Digital Elevation Model (DEM) Super-Resolution
-Enhancing the spatial resolution and accuracy of topographic elevation models using deep learning-based image super-resolution, convolutional networks, and generative models to reconstruct detailed surface features.
-
-#### 📊 Spatial-Temporal Mobility Prediction & Modeling
-Exploring next-location and stay-duration forecasting using:
-* **MoveGPT**: Sparing-aware MoE decoders utilizing POI distributions, geographical proximity, and popularity ranks via Deep & Cross Networks (DCN).
-* **ST-MoE-BERT**: Spatial-Temporal Mixture-of-Experts with BERT encoder-decoders for modeling human trajectories across city boundaries.
+My current research focuses on **explainable multi-modal fusion for enhanced Earth observation**, leveraging machine learning, deep learning, and computer vision to analyze and interpret complex geospatial datasets.
 
 ---
 
